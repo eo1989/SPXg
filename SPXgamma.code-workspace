@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.autoSave": "afterDelay",
+		"editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+		"editor.fontSize": 13,
+		"editor.defaultFormatter": "ms-python.python",
+		"editor.lineNumbers": "relative",
+		"editor.renderLineHighlight": "gutter",
+		"editor.semanticHighlighting.enabled": true,
+		"editor.tabCompletion": "on",
+		"editor.wordWrap": "bounded",
+		"editor.cursorStyle": "block-outline",
+		"editor.cursorSurroundingLines": 2,
+		"python.pythonPath": "/Users/eo/.pyenv/versions/SPXgamma/bin/python"
+	}
+}

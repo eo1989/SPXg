@@ -1,0 +1,50 @@
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms 'http://127.0.0.1:46624/clientapi/languages'
+< 2020/08/01 10:13:35 Get http://127.0.0.1:46624/clientapi/languages: dial tcp 127.0.0.1:46624: connect: connection refused
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms 'http://127.0.0.1:46624/clientapi/languages'
+< HTTP/1.1 200 OK
+< 
+< ["go","javascript","jsx","python","vue"]
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< HTTP/1.1 200 OK
+< 
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< HTTP/1.1 200 OK
+< 
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< HTTP/1.1 200 OK
+< 
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< HTTP/1.1 200 OK
+< 
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< HTTP/1.1 200 OK
+< 
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< 
+
+> /Users/eo/.vim/pack/kite/start/vim-plugin/lib/macos/kite-http --timeout 120ms - 'http://127.0.0.1:46624/clientapi/editor/event'
+< 
