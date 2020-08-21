@@ -9,6 +9,7 @@ import holidays
 import numpy as np
 import pandas as pd
 import requests
+import matplotlib.pyplot as plt
 
 from .PyVol import (
     blackDelta,
@@ -21,10 +22,8 @@ from .PyVol import (
     blackVega,
 )
 
-import matplotlib.pyplot as plt
 
 plt.style.use("ggplot")
-
 
 def TRTH_GEX(raw):
     """
