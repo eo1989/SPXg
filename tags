@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/62f0144/
+CBOE_GEX	Gex.py	/^def CBOE_GEX(filename, sens=True, plot=True, occ=False):$/;"	f
+CBOE_Greeks	Gex.py	/^def CBOE_Greeks(filename, low, high, incr, expiry, field):$/;"	f
+TRTH_GEX	Gex.py	/^def TRTH_GEX(raw):$/;"	f
+blackDelta	PyVol.py	/^def blackDelta(df, F=None, rf=None):$/;"	f
+blackGamma	PyVol.py	/^def blackGamma(df, F=None, rf=None):$/;"	f
+blackIV	PyVol.py	/^def blackIV(df, F=None, rf=None):$/;"	f
+blackScholesDelta	PyVol.py	/^def blackScholesDelta(df, F=None, rf=None):$/;"	f
+blackScholesGamma	PyVol.py	/^def blackScholesGamma(df, F=None, rf=None):$/;"	f
+blackScholesIV	PyVol.py	/^def blackScholesIV(df, F=None, rf=None):$/;"	f
+blackTheta	PyVol.py	/^def blackTheta(df, F=None, rf=None):$/;"	f
+blackVega	PyVol.py	/^def blackVega(df, F=None, rf=None):$/;"	f
+bs_IV	PyVol.py	/^from py_vollib.black_scholes.implied_volatility import implied_volatility as bs_IV$/;"	x
+bs_delta	PyVol.py	/^from py_vollib.black_scholes.greeks.numerical import delta as bs_delta$/;"	x
+bsm_gamma	PyVol.py	/^from py_vollib.black_scholes_merton.greeks.numerical import gamma as bsm_gamma$/;"	x
+getOCC	Gex.py	/^        def getOCC(symbol):$/;"	f	function:CBOE_GEX	file:
+idToSymbol	Gex.py	/^        def idToSymbol(strng):$/;"	f	function:CBOE_GEX	file:
+np	Gex.py	/^import numpy as np$/;"	I
+np	PyVol.py	/^import numpy as np$/;"	I
+pd	Gex.py	/^import pandas as pd$/;"	I
+plt	Gex.py	/^import matplotlib.pyplot as plt$/;"	I
